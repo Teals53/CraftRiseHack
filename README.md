@@ -1,2 +1,2 @@
 # CraftRiseHack
-CraftRise İçin Sürekli Güncellenen Hile Ayarı
+CraftRise İçin Sürekli Güncellenen Hile Ayarı Config Kısmındaki Linkten İndirebilirsiniz
